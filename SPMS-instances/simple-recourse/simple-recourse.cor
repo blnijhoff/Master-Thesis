@@ -1,0 +1,16 @@
+NAME        simple-recourse
+ROWS
+ N  OBJ
+ E  CON
+COLUMNS
+    x   OBJ     3.0
+    x   CON     1.0
+    y1  OBJ     5.0
+    y1  CON     1.0
+    y2  OBJ     1.0
+    y2  CON    -1.0
+RHS
+BOUNDS
+ LO BND     y1      0.0
+ LO BND     y2      0.0
+ENDATA

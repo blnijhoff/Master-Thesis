@@ -1,0 +1,13 @@
+STOCH       SIMPLE-RECOURSE
+INDEP       DISCRETE
+    RHS     CON         1.0     0.1
+    RHS     CON         2.0     0.1
+    RHS     CON         3.0     0.1
+    RHS     CON         4.0     0.1
+    RHS     CON         5.0     0.1
+    RHS     CON         6.0     0.1
+    RHS     CON         7.0     0.1
+    RHS     CON         8.0     0.1
+    RHS     CON         9.0     0.1
+    RHS     CON        10.0     0.1
+ENDATA

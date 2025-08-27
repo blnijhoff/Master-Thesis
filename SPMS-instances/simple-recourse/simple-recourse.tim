@@ -1,0 +1,5 @@
+TIME        SIMPLE-RECOURSE
+PERIODS
+    x       -               PERIOD1
+    y1      CON             PERIOD2
+ENDATA
